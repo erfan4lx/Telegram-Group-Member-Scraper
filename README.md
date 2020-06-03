@@ -1,6 +1,6 @@
 # Telegram Group Member Scraper
 ***
- Just open the file with Python2 and Use!
+ Just open the file with Python3 and Use!
 ***
 
 ➖➖➖➖➖➖
