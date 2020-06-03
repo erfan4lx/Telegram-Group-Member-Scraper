@@ -14,8 +14,8 @@ print ('''
 # please disable the two verification code if this enable in your telegram account before using this software
 
 api_id = input("Enter the API ID: ") # go to the my.telegram.org and API DEVEPLOMENT then copy the apt id and paste here
-api_hash = raw_input("Enter the API HASH: ") # go to the my.telegram.org and API DEVEPLOMENT then copy the apt hash and paste here
-phone = raw_input("Enter the Phone: ") # enter the your account phone number + Countery code example:+989124444444
+api_hash = str(input("Enter the API HASH: ")) # go to the my.telegram.org and API DEVEPLOMENT then copy the apt hash and paste here
+phone = str(input("Enter the Phone: ")) # enter the your account phone number + Countery code example:+989124444444
 client = TelegramClient(phone, api_id, api_hash)
  
 client.connect()
