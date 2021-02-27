@@ -15,24 +15,11 @@ Coded by: erfan4lx
 
 ➖➖➖➖➖➖
 
-🆔 Our Website : https://M4nifest0.com
+🆔My YouTube Channel : http://youtube.com/erfan4lx
 
-🆔 Our Telegram Channel : https://t.me/M4nifest0
+🆔My Telegram Channel : https://t.me/Erfan4lxTeam
 
-***
-Contact me to buy Real And Fake member for your Group And Channel
-And buy virtual number for Telegram and ...   =>
-
-🌐 Contact me via Email : erfan4lx@gmail.com 🌐
-🌐 Contact me via Telegram : https://telegram.me/erfan4lx 🌐
-***
-
-
-🆔 Our Telegram Channel : https://t.me/M4nifest0
-
-🆔 Our Website : http://vortex-team.org
-
-🆔 Our Telegram Channel : https://t.me/Unidentified_TM
+🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
 
 <p align="center">
   Follow Me On
