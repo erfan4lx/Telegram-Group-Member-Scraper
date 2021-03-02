@@ -1,19 +1,11 @@
 # Telegram Group Member Scraper
 ***
- Just open the file with Python3 and Use!
+ Get To Know The Best Tool To Scrape Telegram Group Members
 ***
 
-Show in YouTube : https://youtu.be/g5xHnHEZMxE
+Show full video on YouTube : https://youtu.be/g5xHnHEZMxE
 
-➖➖➖➖➖➖
-Coded by: erfan4lx
-➖➖➖➖➖➖
-
-👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
-
-🔥 ฿Ⱡ₳₵₭ Ⱨ₳₮ Ⱨ₳₵₭ɆⱤ 🔥
-
-➖➖➖➖➖➖
+Show demo video on Instagram : https://www.instagram.com/p/CL7fe4Tg11z
 
 🆔My YouTube Channel : http://youtube.com/erfan4lx
 
