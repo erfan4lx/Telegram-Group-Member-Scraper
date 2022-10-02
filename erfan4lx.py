@@ -1,5 +1,8 @@
-#This script product by : erfan4lx - M4nifest0 Cyber Security Team
-#Special tnx to : hack4lx
+#This script product by : erfan4lx - https://erfan4lx.com
+#yotube.com/erfan4lx
+#github.com/erfan4lx
+#instagram.com/_erfan4lx_
+#t.me/erfan4lx1
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
@@ -9,13 +12,16 @@ print ('''
 
 
 
-            \nThis script product by erfan4lx - M4nifest0 Cyber Security Team
-            Special tnx to : hack4lx\n''')
+            \nThis script product by erfan4lx - https://erfan4lx.com
+            yotube.com/erfan4lx
+            github.com/erfan4lx
+            instagram.com/_erfan4lx_
+            t.me/erfan4lx1\n''')
 # please disable the two verification code if this enable in your telegram account before using this software
 
 api_id = input("Enter the API ID: ") # go to the my.telegram.org and API DEVEPLOMENT then copy the apt id and paste here
 api_hash = str(input("Enter the API HASH: ")) # go to the my.telegram.org and API DEVEPLOMENT then copy the apt hash and paste here
-phone = str(input("Enter the Phone: ")) # enter the your account phone number + Countery code example:+989124444444
+phone = str(input("Enter the Phone: ")) # enter the your account phone number + Countery code example:+449124444444
 client = TelegramClient(phone, api_id, api_hash)
  
 client.connect()
@@ -82,7 +88,13 @@ print ('''
 
 
 
-            \nThis script product by erfan4lx - M4nifest0 Cyber Security Team
-            Special tnx to : hack4lx\n''')
-#This script product by : erfan4lx - M4nifest0 Cyber Security Team
-#Special tnx to : hack4lx
+            \nThis script product by erfan4lx - https://erfan4lx.com
+            yotube.com/erfan4lx
+            github.com/erfan4lx
+            instagram.com/_erfan4lx_
+            t.me/erfan4lx1\n''')
+#This script product by : erfan4lx - https://erfan4lx.com
+#yotube.com/erfan4lx
+#github.com/erfan4lx
+#instagram.com/_erfan4lx_
+#t.me/erfan4lx1
