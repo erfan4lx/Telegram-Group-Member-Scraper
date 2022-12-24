@@ -2,7 +2,7 @@
 #yotube.com/erfan4lx
 #github.com/erfan4lx
 #instagram.com/_erfan4lx_
-#t.me/erfan4lx1
+#t.me/erfan4lx
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
@@ -16,7 +16,7 @@ print ('''
             yotube.com/erfan4lx
             github.com/erfan4lx
             instagram.com/_erfan4lx_
-            t.me/erfan4lx1\n''')
+            t.me/erfan4lx\n''')
 # please disable the two verification code if this enable in your telegram account before using this software
 
 api_id = input("Enter the API ID: ") # go to the my.telegram.org and API DEVEPLOMENT then copy the apt id and paste here
@@ -92,9 +92,9 @@ print ('''
             yotube.com/erfan4lx
             github.com/erfan4lx
             instagram.com/_erfan4lx_
-            t.me/erfan4lx1\n''')
+            t.me/erfan4lx\n''')
 #This script product by : erfan4lx - https://erfan4lx.com
 #yotube.com/erfan4lx
 #github.com/erfan4lx
 #instagram.com/_erfan4lx_
-#t.me/erfan4lx1
+#t.me/erfan4lx
