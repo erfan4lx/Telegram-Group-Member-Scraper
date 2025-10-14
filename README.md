@@ -10,8 +10,6 @@ LATEST VERSION : https://github.com/erfan4lx/Telegram-Members-Adder/
 
 Show full video on YouTube : https://youtu.be/g5xHnHEZMxE
 
-Show demo video on Instagram : https://www.instagram.com/p/CL7kniAgGuS
-
 Contact with me to get the Password of Zip file on :
 
  Telegram : https://t.me/erfan4lx10
@@ -21,8 +19,6 @@ Contact with me to get the Password of Zip file on :
 🆔My YouTube Channel : https://youtube.com/erfan4lx
 
 🆔My Telegram Channel : https://t.me/erfan4lx_news
-
-🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
 
 <p align="center">
   Follow Me On
